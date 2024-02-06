@@ -36,7 +36,8 @@ The project integrates data from multiple sources, including:
 ## Data Model
 The data model is designed to provide a structured framework for organizing and analyzing data. It encompasses various dimensions and measures to facilitate comprehensive analysis and reporting.
 
-![Data Model]
+![Data Model]![Screenshot (27)](https://github.com/InfantMary/Business-insights-360/assets/141898817/2c9b0742-9c6b-4e17-b602-495f04f12f64)
+
 
 ## Reports and Dashboards
 The project includes a collection of reports and dashboards covering key areas such as:
@@ -59,9 +60,3 @@ To use the Business Insights 360 PowerBI project:
 ## Contributing
 Contributions to the project are welcome! Whether it's bug fixes, feature enhancements, or new insights, feel free to contribute to the project and help improve business analytics for everyone.
 
-## License
-This project is licensed under the [MIT License](insert_license_url_here). Feel free to use, modify, and distribute the project in accordance with the terms of the license.
-
----
-
-Feel free to customize and expand upon this README file based on the specifics of your PowerBI project and its requirements. Make sure to replace placeholder text and URLs with actual content relevant to your project.
